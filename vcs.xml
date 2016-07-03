@@ -6,8 +6,12 @@
           <option name="url" value="https://github.com/pmarvic/JVCPM.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/pmarvic/JVPOS.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\MARVIC\Developer\Proyectos\JAVA\JVCPM\Source" />
+    <option name="cloneParentDir" value="C:\Users\Marvic\Developer\Proyectos\JAVA\JVPOS\Source" />
   </component>
 </application>
