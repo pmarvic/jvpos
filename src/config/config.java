@@ -1,5 +1,4 @@
 package config;
-
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -18,7 +17,7 @@ public class config {
             /**a type object properties is created*/
             Properties properties = new Properties();
             /**Upload the file to the specified path*/
-            properties.load(new FileInputStream("C:\\Projects\\JVPOS\\jvpos\\src\\properties\\config.propierties"));
+            properties.load(new FileInputStream("C:\\Users\\MARVIC\\Developer\\Proyectos\\JAVA\\JVPOS\\Source\\src\\properties\\config.propierties"));
             String company = properties.getProperty("Empresa");
             String branch = properties.getProperty("Sucursal");
             String check_out_counter = properties.getProperty("Caja");

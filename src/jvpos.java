@@ -1,7 +1,7 @@
 import config.*;
 
 /**
- * Created by pmarvic on 23/4/2016.
+ * Created by Marvic R Santiago P on 28/02/2016.
  */
 public class jvpos {
     public static void main(String arg[]) {
