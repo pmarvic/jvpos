@@ -2,6 +2,16 @@
   <component name="libraryTable">
     <library name="Java_Lib">
       <CLASSES>
+        <root url="jar://C:/Java_Lib/antlr-2.7.7.jar!/" />
+        <root url="jar://C:/Java_Lib/commons-collections-3.2.1.jar!/" />
+        <root url="jar://C:/Java_Lib/dom4j-1.6.1.jar!/" />
+        <root url="jar://C:/Java_Lib/hibernate-commons-annotations-4.0.1.Final.jar!/" />
+        <root url="jar://C:/Java_Lib/hibernate-core-4.1.0.Final.jar!/" />
+        <root url="jar://C:/Java_Lib/hibernate-entitymanager-4.1.0.Final.jar!/" />
+        <root url="jar://C:/Java_Lib/hibernate-jpa-2.0-api-1.0.1.Final.jar!/" />
+        <root url="jar://C:/Java_Lib/javassist-3.15.0-GA.jar!/" />
+        <root url="jar://C:/Java_Lib/jboss-logging-3.1.0.CR2.jar!/" />
+        <root url="jar://C:/Java_Lib/jboss-transaction-api_1.1_spec-1.0.0.Final.jar!/" />
         <root url="jar://C:/Java_Lib/jssc.jar!/" />
         <root url="jar://C:/Java_Lib/mysql_connector.jar!/" />
         <root url="jar://C:/Java_Lib/TfhkaJava.jar!/" />
