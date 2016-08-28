@@ -1,0 +1,13 @@
+<application>
+  <component name="libraryTable">
+    <library name="Java_Lib">
+      <CLASSES>
+        <root url="jar://C:/Java_Lib/jssc.jar!/" />
+        <root url="jar://C:/Java_Lib/mysql_connector.jar!/" />
+        <root url="jar://C:/Java_Lib/TfhkaJava.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
