@@ -1,12 +1,11 @@
-import config.terminal;
-
+import config.*;
 
 /**
  * Created by Marvic R Santiago P on 28/02/2016.
  */
-class jvposMain {
+public class jvpos {
     public static void main(String arg[]) {
-        terminal runTerminal = new terminal();
+        config runTerminal = new config();
         runTerminal.readFile();
     }
 }
